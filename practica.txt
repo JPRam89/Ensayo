@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-veamos si funciona
-=======
 wow funcionara?
->>>>>>> Ramirez_Juan_Pablo
 pues si
